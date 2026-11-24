@@ -9,6 +9,7 @@ A curated list of Omarchy plugins, themes, resources, and tools.
 - [Official Resources](#official-resources)
 - [Alternative Implementations](#alternative-implementations)
 - [Plugins](#plugins)
+- [Game Vibes Games](#game-vibes-games)
 - [Development Tools](#development-tools)
 - [Related Projects](#related-projects)
 - [Alternative Curated Lists](#alternative-curated-lists)
@@ -92,6 +93,12 @@ Community plugins for [Omarchy Quattro](https://github.com/basecamp/omarchy/tree
 - [Todoist](https://github.com/Aryan-Techie/omarchy-todoist) - Due counts and quick-add from the Omarchy bar.
 - [Voxtype Enhance](https://github.com/iamcheyan/omarchy-voxtype-enhance) - Voxtype dictation control center with model downloads and paste controls.
 - [X Mode](https://github.com/timurguseynov/omarchy-x-mode) - MacOS-like floating window mode with tabs, snapping, a dock, app switching, and macOS keyboard shortcuts.
+
+## Game Vibes Games
+
+Single-file three.js games for the [Game Vibes](https://github.com/omacom/omarchy/pull/19422) launcher, installed with `omarchy games vibes install <git-repo-url>`.
+
+- [Claim](https://github.com/lorismaz/omarchy-claim-game) - Territory-claiming arcade game where you cut lines across the field to fence off 75% of it while avoiding a wandering wisp and edge-patrolling crawlers.
 
 ## Development Tools
 
